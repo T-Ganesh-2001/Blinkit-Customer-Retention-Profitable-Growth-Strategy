@@ -10,8 +10,6 @@ Beyond data analysis, the project will involve building an interactive dashboard
 
 The objective is to connect **data analysis with real product decisions** and demonstrate how analytical insights can inform product strategy.
 
-*Disclaimer: This is an independent portfolio project, not an official Blinkit project. Synthetic datasets and simulated experiments may be used and will be clearly identified. They will not be presented as actual Blinkit internal data or verified business results.*
-
 ---
 
 ## 🎯 Project Objectives
